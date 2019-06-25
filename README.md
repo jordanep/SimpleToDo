@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [Walkthrough](Walkthrough720p.mov)
+! [Walkthrough](Walkthrough480p.mov)
 
 ## Notes
 
